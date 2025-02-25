@@ -1,0 +1,5 @@
+[
+  "test_api.py::test_ingest_endpoint",
+  "test_api.py::test_predict_endpoint",
+  "test_api.py::test_retrain_endpoint"
+]
